@@ -11,4 +11,39 @@ Exercise 2:
 2. When will you use Agile? When will you use Predictive?
 	Predictive: Software is a satelite
                     Porting
-	
+
+	Days	Hours/Day	Hours
+Aish	15	4		60
+Abhi	16	3		48
+Shah	17	4		68
+Amit	12	5		60
+Hrit	16	5		80
+Preeti	17	5		85
+			Total  401 hours
+
+	Last sprint we had 350 hours and we did 35 SPs.
+	This sprint we have 401 hours. So we think we can do 40SPs.
+
+Sprint 1 - 210 Sps	Sprint 2 - 170 Sps	 	Sprint 3 - 240 Sps
+		Current velocity= (210 + 170 + 240) / 3 = 207Sps.
+Answer 1) Till May 15 we can do 4 sprints i.e. 4 sprints * 207 Sps = 828 Sps.
+	  We can finish 25 User stories.
+Answer 2) for 15 user stories we need to do 510Sps.
+		We need 3 sprints
+		Time = 3 sprints * 4 weeks + 2 weeks = 14 weeks
+	1-Apr.
+Answer 3) To do 1080 SPs, we need 6 sprints.
+	Time = 6 sprints * 4 weeks + 2 weeks = 26 weeks.
+No.
+
+
+
+
+
+
+
+
+
+
+
+
