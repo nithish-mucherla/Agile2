@@ -36,9 +36,13 @@ Answer 3) To do 1080 SPs, we need 6 sprints.
 	Time = 6 sprints * 4 weeks + 2 weeks = 26 weeks.
 No.
 
+Cycle Time - Time when the customer asks for feature to that feature in deployment
+		Option 2 > Option 1 > Option 3
 
-
-
+Evaluation
+	PO - Profitability
+	SM - Productivity and Cycle time
+	Team - PO as a unit.
 
 
 
