@@ -1,1 +1,14 @@
 Github repository at https://bit.ly/3wssOW1 or https://github.com/vijaynathani/Agile2
+
+Exercise 1:
+1. List advantages/disadvantages of Code&Fix vs Predictive.
+2. When will you use Code&Fix? When will you use Predictive?
+
+Iteration 0: Vision document, Architecture, User stories
+
+Exercise 2:
+1. List advantages/disadvantages of Predictive vs Agile
+2. When will you use Agile? When will you use Predictive?
+	Predictive: Software is a satelite
+                    Porting
+	
