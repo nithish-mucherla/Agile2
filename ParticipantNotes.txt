@@ -98,6 +98,33 @@ Q74 – BitmapButton
 Q75 – PropertyFileWriter
 Avoid deep Inheritance Hierarchy:  Q76
 
+DRY: 
+Q021: BookRentals; 
+Q11: BookRental; 
+Q33 – SurveyData; 
+Q37 – FOC, TT
+Q10 – Jbutton
+Q34 – replace; 
+Q35 – BookRental
+Q70 – Array Scan
+
+Small Functions/Classes: Q56srp – Restaurants
+Q59srp - Customers
+
+TEam has take 20 user stories in Sprint backlog
+Finish 18
+
+PO says velocity is low
+Project is unprofitable
+
+
+
+
+
+
+
+
+
 
 
 
