@@ -44,6 +44,26 @@ Evaluation
 	SM - Productivity and Cycle time
 	Team - PO as a unit.
 
+Ken S - ScrumMaster.
+	Team is now skipping documentation, writing tests and code quality is poor.
+	PO wants us to finish earlier.
+	We have to finish by 1-Jan - $2Million
+	Cost to fix to problems is $0.2Million.
+
+XP - Kent Beck
+	Minimum wage
+	Software in production - Huge bonus
+	Scrum doesn't have technical practices.
+
+
+
+
+
+
+
+
+
+
 
 
 
