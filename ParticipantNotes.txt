@@ -73,6 +73,33 @@ Developer to Tester Ratio
 	Q01 - S01
 
 	Q57, Q58
+Polymorphism:
+	if (tc == 1)
+		...
+	else if (tc == 2)
+		...
+	else if (tc == 3) 
+		...
+	else
+		throw <<exception>>
+Q30 – Shape; 
+Q40Smell: Courses weekly, range, list; 
+Q43smell: home address / work address
+Q36 – USD, RMB; 
+Q41 – Session
+
+Inheritance:
+Q72Inheri: Employee, LinkList
+Q31 - UserAccount
+Q71inheri – CourseCatalog    
+Q52 – NormalPayment		
+Q54 – Account
+Q74 – BitmapButton             
+Q75 – PropertyFileWriter
+Avoid deep Inheritance Hierarchy:  Q76
+
+
+
 
 
 
