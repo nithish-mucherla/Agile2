@@ -15,6 +15,7 @@ This website is at <https://github.com/vijaynathani/Agile2>.
 ### Note
 - All slides, exercises, and course material will be kept in this repository during the training. 
 - This repository will be deleted one week after the training is over.
+- If you need recording for 27th July post lunch session, then contact [Pragati](mailto:sagar.thakur@pragatisoftware.com).
 
 ### The setup required for every participant is:
 - Internet connection of at least 2Mbps
